@@ -49,7 +49,7 @@ This Python project extracts tabular data from PDF files and uploads each table 
    
 2. Install dependencies:
    ```bash
-   pip install pandas pdfplumber gspread google-auth
+   pip install -r requirements.txt
 
 3. Create a Google Cloud Project:
    - Enable Google Sheets API.
